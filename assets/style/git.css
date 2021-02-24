@@ -1,11 +1,4 @@
-.wrap{
-    display: flex;
-}
 div.left{
     float: left;
     padding-left: 1rem;
-}
-div.text-justify{
-    text-align: justify;
-    vertical-align: middle;
 }
